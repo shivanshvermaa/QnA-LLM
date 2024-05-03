@@ -1,0 +1,6 @@
+#For the project configurations
+config.yml
+
+#For files
+.files
+__pycache__
